@@ -1,0 +1,30 @@
+# Esto es la practica de python by mouredev, https://www.python.org/    
+
+"""
+Este es un
+comentario en 
+varias lineas
+
+"""
+
+'''
+Este es un 
+comentario en 
+varias lineas
+
+'''
+
+
+VARIABLE_CONSTANTE = 'esta es una variable constante'
+
+variable_strig = 'esta es una cadena de texto'
+
+variable_int = 123
+
+variable_float = 3,4
+
+booleano_1 = True
+
+booleano_2 = False
+
+print ('Hola, PYTHON')
